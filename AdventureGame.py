@@ -4,7 +4,7 @@ import random
 
 def print_pause(s):
     print(s)
-    time.sleep(0.25)
+    time.sleep(0.20)
 
 
 def valid_input(prompt, op1, op2):
