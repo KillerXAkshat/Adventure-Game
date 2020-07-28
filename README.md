@@ -1,7 +1,7 @@
 # Adventure Game
 
 ## Description
-A short adventure game that was done with Python for Udacity Adventure Game
+A short adventure game that was done with Python for Udacity
 Project.
 
 ## How to play
