@@ -240,6 +240,6 @@ So what is your name again?\n""")
         break
     elif answ == 4:
       break
-  print("Bye!")
+  print("Bye! Have a Good Day..")
 
 battle()
